@@ -19,3 +19,7 @@ done < /n/data1/hms/dbmi/park/clara_kim/MSI/stad-us/STAD_bam_paths.txt
 
 # MSIprofiler
 sbatch --array=1-22 msiprofiler_batch.sh $SAMPLE_ID
+
+
+# MANTIS
+
